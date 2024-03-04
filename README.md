@@ -28,3 +28,13 @@ To run this project locally, follow these steps:
 - [React Router](https://reactrouter.com/) for handling routing
 - [Redux](https://redux.js.org/) for state management
 - [Axios](https://axios-http.com/) for making HTTP requests
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+## Contact
+
+If you have any questions or feedback, feel free to contact me at elishabu28@gmail.com.
+
+Happy house hunting!
